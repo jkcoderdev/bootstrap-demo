@@ -14,6 +14,8 @@ async function updateRoute() {
 
     const currentRoute = routes[route]();
 
+    document.title = currentRoute.title;
+
     const menuItems = menu.querySelectorAll('a');
     menuItems.forEach(item => {
         item.classList.remove('active');

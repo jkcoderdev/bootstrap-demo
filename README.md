@@ -1,5 +1,7 @@
 # Bootstrap 5 Demo
 
+![Home page screenshot](screenshots/home-page.png "Screenshot")
+
 This is a website demo which uses Bootstrap 5 library.
 
 ## Setup
